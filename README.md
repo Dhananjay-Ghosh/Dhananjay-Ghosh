@@ -1,8 +1,12 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/dhananjay-ghosh-01bb98213/) -->
+
 <h1 align="center">Hi 👋, I'm Dhananjay Ghosh</h1>
 <h3 align="center">A passionate Competitive Programmer & Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay-ghosh" /> </p>
+
+<p align="left"> <a href="https://twitter.com/dhananjay7778" target="blank"><img src="https://img.shields.io/twitter/follow/dhananjay7778?logo=twitter&style=for-the-badge" alt="dhananjay7778" /></a> </p>
 
 - 🔭 I’m currently working on [Prayaas India](https://www.prayaasindia.org/)
 
@@ -12,8 +16,19 @@
 
 - 📫 How to reach me **dhananjayghosh7778@gmail.com**
 
+- 📄 Know about my experiences [linkedin.com](https://www.linkedin.com/in/dhananjay-ghosh-01bb98213/)
+
+- ⚡ Fun fact **I think I am Cool 😎**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/dhananjay7778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhananjay7778" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhananjay-ghosh-01bb98213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-ghosh-01bb98213" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/silentcoder446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="silentcoder446" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhananjayghosh71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhananjayghosh71" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dhananjay7778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhananjay7778" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhananjayghosh7778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhananjayghosh7778" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dhananjayghosh7778/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhananjayghosh7778/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
