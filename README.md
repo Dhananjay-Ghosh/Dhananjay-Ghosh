@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Prayaas India](https://www.prayaasindia.org/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and **Machine Learning**
 
 - 💬 Ask me about **DSA and Competitive Programming tips**
 
